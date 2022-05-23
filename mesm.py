@@ -10,25 +10,22 @@
 """
 """
    * Written By: Tom Mullins
-   * Version: 0.10
+   * Version: 0.20
    * Date Created:  04/20/19
-   * Date Modified: 04/23/19
+   * Date Modified: 05/23/22
 """
 import sys, os
 import Adafruit_DHT
 import time
 import RPi.GPIO as GPIO
+import sqlite3
+import traceback
 
 # The global variables to be used by the program.
 # minuteCount logs minutes since initialization, acting as a crude way to track time w/o networking.
 minuteCount = 0
 # When 60 minutes are counted, hourCount is advanced.
 hourCount = 0
-
-# Opening the text file for recording readings from the sensors.
-# Opened in Append mode.
-recordedData = open('datalog.txt', 'a')
-
 
 # Setting up the gpio for the shutdown Button
 GPIO.setmode(GPIO.BCM)
@@ -46,7 +43,7 @@ def fahrenheitConverter(x):
 
 """
     The main function for MESM that reads the data from the sensor,
-    converts it, and saves it to datalog.txt.
+    converts it, and saves it to a SQLite3 Database.
 
     It then increments minuteCount and hourCount as necessary.
 """
@@ -54,20 +51,52 @@ def main():
 
     global minuteCount, hourCount
 
-    # Opening the text file for recording readings from the sensors.
-    # Opened in Append mode.
-    recordedData = open('datalog.txt', 'a')
+    """
+        Adding database functionality to replace using just a text file.
+    """
+
+
+    # creating the database
+    conn = sqlite3.connect('recorded_data.db')
+
+
+
+
+    #connecting to the database.
+    c = conn.cursor()
+
+    # Creating the temperature table
+    c.execute("""
+            CREATE TABLE IF NOT EXISTS weather
+            ([_id] INTEGER PRIMARY KEY, [time] TEXT NOT NULL, [temperature] REAL, [humidity] REAL)
+            """)
+
+    conn.commit()
+
+
 
     # reading data from sensor.
     humidity, temperature =  Adafruit_DHT.read_retry(11, 24)
     # converting to fehrenheit
     temperatureConverted = fahrenheitConverter(temperature)
 
-    # The info to be written to datalog.txt
-    roughDraft = "\n T+ {} Hrs, {} Minutes\n Temp: {} F\n Humidity: {} %\n\n".format(hourCount, minuteCount, temperatureConverted, humidity)
+    # Creating a time string, for simplicity
+    hourMin = "{}:{}".format(hourCount, minuteCount)
 
-    recordedData.write(roughDraft)
-    recordedData.close()
+    # A SQL inseart as a string so I can use parameters
+    dataInsert = """
+            INSERT OR REPLACE INTO weather
+                VALUES
+                (null, ?, ?, ?)
+            """
+
+    # Creating a list of the data to be inserted to used a parameter.
+    gatheredData = (hourMin, temperatureConverted, humidity)
+
+    # The actual SQL insert.
+    c.execute(dataInsert, gatheredData)
+    conn.commit()
+    c.close()
 
     # Incrementing the time counters.
     minuteCount += 1
@@ -79,13 +108,23 @@ def main():
     return
 
 # Run main until 6 hours passes
-while True:
+try:
 
-    input_state = GPIO.input(12)
+    while True:
 
-    main()
+        input_state = GPIO.input(12)
 
-    if input_state == False:
-        os.system('sudo shutdown -r now')
+        main()
 
-    time.sleep(60) # wait 60 seconds between runs.
+        if input_state == False:
+            os.system('sudo shutdown -r now')
+
+        time.sleep(60) # wait 60 seconds between runs.
+
+except:
+     errorFile = open('MESMreport.txt', 'w')
+     errorFile.write(traceback.format_exc())
+     errorFile.close()
+     print('The traceback info was written to MESMreport.txt')
+finally:
+    GPIO.cleanup()
