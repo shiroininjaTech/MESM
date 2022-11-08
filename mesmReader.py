@@ -7,9 +7,9 @@
 """
 """
    * Written By: Tom Mullins
-   * Version: 0.10
+   * Version: 0.20
    * Date Created:  09/19/19
-   * Date Modified: 05/23/22
+   * Date Modified: 05/31/22
 """
 import re, sys, getopt, os, math
 from os.path import expanduser
@@ -22,7 +22,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 import numpy as np
 import astroThemesV85
-import sqlite3
+import sqlite3, re
 
 
 """
@@ -31,6 +31,8 @@ import sqlite3
 
 def main(argv):
     logFile = ''
+    global argVar
+    argVar = []
 
     # Getting the arguements
     try:
@@ -48,7 +50,7 @@ def main(argv):
             sys.exit()
         elif opt in ("-i", "--ifile"):
             logFile = "~/Documents/PythonFiles/MESM/datalogs/" + arg
-
+            argVar.append(arg)
             """
                 A function to extract data from a .txt file produced by MESM.
                 Takes the datalog's filename as 'datalog'
@@ -60,7 +62,7 @@ def main(argv):
 
 
 
-                global temperatures, humidityData, locations, dates
+                global temperatures, humidityData, locations, dates, argVar
 
                 # the global lists to be populated by the extractor function
                 temperatures = []
@@ -68,6 +70,49 @@ def main(argv):
                 locations = []
                 dates =[]
 
+
+
+                """
+                    Connecting to and pulling data from the Databases that MESM now uses as of
+                    0.20.
+                """
+
+                # Opening the Database passed to the extractor function and setting up the cursor ob.
+                connectDB = sqlite3.connect(datalog)
+                dbCursor = connectDB.cursor()
+
+                # Selecting the rows we need from the weather table, and then pulling the data
+                # from it.
+                selectAll = dbCursor.execute("SELECT time, temperature, humidity FROM weather")
+                allData = selectAll.fetchall()
+
+                for row in allData:
+                    temperatures.append(row[1])
+                    humidityData.append(row[2])
+
+                # Starting to pull the date and location from the
+                # database name.
+                locDate = argVar[0].replace(".db", "")
+
+                # Seperating the location and date from the filename.
+                head, sep, tail = locDate.partition('z')
+                locations.append(head)
+                dateStr = tail
+
+                if locations[0] == "porch":
+                    locations[0] = "On My Back Porch"
+
+                dates.append('-'.join(dateStr[i:i+2] for i in range(0, 5, 2 ))) # Making the date more readeable by adding slashes.
+
+
+
+
+
+
+
+
+
+                """
                 # Opening the text file
                 with open(datalog) as recordedData:
                     # iterating through each line in the file.
@@ -94,6 +139,7 @@ def main(argv):
 
                         if dateMatch:
                             dates.append(str(dateMatch.group(1)))
+                """
                 return
 
             """
@@ -105,7 +151,7 @@ def main(argv):
 
                 # An empty list to be populated for calculating the population variance
                 varianceList = []
-                global meanTemp, medianTemp, lowestTemp, highestTemp
+                global meanTemp, medianTemp, lowestTemp, highestTemp, meanHum, lowestHum, highestHum, medianHumid, hustanDev
                 # Getting the simple average temperature. (mean)
                 meanTemp = sum(temps)/len(temps)
                 print("Simple Average (Mean): %s F" % float("%0.1f" % meanTemp))
@@ -144,7 +190,11 @@ def main(argv):
 
                 # Calculating the median temperature
                 orderedHumid = sorted(humidity)
-                #print(orderedTemp)
+
+                # Getting the highest/lowest Humidity.
+                lowestHum = orderedHumid[0]
+                highestHum = orderedHumid[-1]
+
                 halfHumid = (len(orderedHumid) + 1)/2
                 medianHumid = orderedHumid[int(halfHumid)]
                 print("Median Humidity: %s " % medianHumid)
@@ -220,7 +270,7 @@ def main(argv):
                     def vert_Spacer(a, b, c):
                         verticalSpacer = QSpacerItem(b, c, QSizePolicy.Maximum, QSizePolicy.Expanding)
                         a.addItem(verticalSpacer, 3, 0)
-                        a.addItem(verticalSpacer, 3, 3)
+                        a.addItem(verticalSpacer, 3, 2)
 
 
                     # A function for creating scroll objects
@@ -374,16 +424,28 @@ def main(argv):
                     headerBuild(message, 0, 1, self.mainTab.layout, 50)
 
                     # Building the scroll container the graphs will go into.
-                    scrollBuilder(self.mainTab.layout, 1, 1)
+                    scrolly = scrollBuilder(self.mainTab.layout, 1, 1)
 
                     # Creating the lists of data to be used in the graphs
                     statLabels = ('Average\nTemperature', 'Median\nTemperature', "Lowest\nTemperature", "Highest\nTemperature")
                     tempNums = (float("%0.1f" % meanTemp), medianTemp, lowestTemp, highestTemp)
 
                     # Creating the first graph.
-                    graph_maker(tempNums, "Degrees Fahrenheit", 4, "Temperature Data\n", statLabels, scroll.layout, 0, 0)
+                    graph_maker(tempNums, "Degrees Fahrenheit", 4, "Temperature Data\n", statLabels, scroll.layout, 0, 1)
 
+                    # Creating the lists of data to be used in the second graph
+                    humLabels = ('Average\nHumidity', 'Median\nHumidity', 'Lowest\nHumidity', 'Highest\nHumidity', 'Deviation')
+                    humNums = (float("%0.1f" % meanHum), medianHumid, lowestHum, highestHum, hustanDev)
 
+                    # Creating the second Graph
+                    graph_maker(humNums, "Percentage", 5, "Humidity Data\n", humLabels, scroll.layout, 2, 1)
+
+                    # Adding Horizontal spacers inbetween frame items
+                    #horizSpacer = QSpacerItem(50, 50, QSizePolicy.Maximum)
+                    #scroll.layout.addItem(horizSpacer, 1, 1)
+
+                    # Adding a verticle spacer
+                    vert_Spacer(scroll.layout, 250, 250)
 
                     self.mainTab.setLayout(self.mainTab.layout)
                     grid_layout.addWidget(self.tabs)
@@ -393,7 +455,6 @@ def main(argv):
 
             app = QApplication(sys.argv)
             ex = App()
-            #self.show()
             sys.exit(app.exec_())
 
 if __name__ == '__main__':
