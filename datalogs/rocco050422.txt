@@ -1,0 +1,3353 @@
+Location: Rocco, In car
+Date: 05/04/2022
+
+
+ T+ 0 Hrs, 0 Minutes
+ Temp: 62.6 F
+ Humidity: 52.0 %
+
+
+ T+ 0 Hrs, 1 Minutes
+ Temp: 62.6 F
+ Humidity: 53.0 %
+
+
+ T+ 0 Hrs, 2 Minutes
+ Temp: 62.6 F
+ Humidity: 51.0 %
+
+
+ T+ 0 Hrs, 3 Minutes
+ Temp: 62.6 F
+ Humidity: 50.0 %
+
+
+ T+ 0 Hrs, 4 Minutes
+ Temp: 62.6 F
+ Humidity: 49.0 %
+
+
+ T+ 0 Hrs, 5 Minutes
+ Temp: 64.4 F
+ Humidity: 48.0 %
+
+
+ T+ 0 Hrs, 6 Minutes
+ Temp: 64.4 F
+ Humidity: 47.0 %
+
+
+ T+ 0 Hrs, 7 Minutes
+ Temp: 64.4 F
+ Humidity: 46.0 %
+
+
+ T+ 0 Hrs, 8 Minutes
+ Temp: 64.4 F
+ Humidity: 45.0 %
+
+
+ T+ 0 Hrs, 9 Minutes
+ Temp: 64.4 F
+ Humidity: 41.0 %
+
+
+ T+ 0 Hrs, 10 Minutes
+ Temp: 64.4 F
+ Humidity: 44.0 %
+
+
+ T+ 0 Hrs, 11 Minutes
+ Temp: 64.4 F
+ Humidity: 43.0 %
+
+
+ T+ 0 Hrs, 12 Minutes
+ Temp: 64.4 F
+ Humidity: 42.0 %
+
+
+ T+ 0 Hrs, 13 Minutes
+ Temp: 66.2 F
+ Humidity: 40.0 %
+
+
+ T+ 0 Hrs, 14 Minutes
+ Temp: 66.2 F
+ Humidity: 38.0 %
+
+
+ T+ 0 Hrs, 15 Minutes
+ Temp: 66.2 F
+ Humidity: 36.0 %
+
+
+ T+ 0 Hrs, 16 Minutes
+ Temp: 66.2 F
+ Humidity: 32.0 %
+
+
+ T+ 0 Hrs, 17 Minutes
+ Temp: 66.2 F
+ Humidity: 35.0 %
+
+
+ T+ 0 Hrs, 18 Minutes
+ Temp: 66.2 F
+ Humidity: 34.0 %
+
+
+ T+ 0 Hrs, 19 Minutes
+ Temp: 66.2 F
+ Humidity: 33.0 %
+
+
+ T+ 0 Hrs, 20 Minutes
+ Temp: 66.2 F
+ Humidity: 32.0 %
+
+
+ T+ 0 Hrs, 21 Minutes
+ Temp: 66.2 F
+ Humidity: 32.0 %
+
+
+ T+ 0 Hrs, 22 Minutes
+ Temp: 66.2 F
+ Humidity: 32.0 %
+
+
+ T+ 0 Hrs, 23 Minutes
+ Temp: 66.2 F
+ Humidity: 27.0 %
+
+
+ T+ 0 Hrs, 24 Minutes
+ Temp: 66.2 F
+ Humidity: 25.0 %
+
+
+ T+ 0 Hrs, 25 Minutes
+ Temp: 66.2 F
+ Humidity: 23.0 %
+
+
+ T+ 0 Hrs, 26 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 27 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 28 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 29 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 30 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 31 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 32 Minutes
+ Temp: 66.2 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 33 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 34 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 35 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 36 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 37 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 38 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 39 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 40 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 41 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 42 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 43 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 44 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 45 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 46 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 47 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 48 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 49 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 50 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 51 Minutes
+ Temp: 68.0 F
+ Humidity: 21.0 %
+
+
+ T+ 0 Hrs, 52 Minutes
+ Temp: 68.0 F
+ Humidity: 20.0 %
+
+
+ T+ 0 Hrs, 53 Minutes
+ Temp: 68.0 F
+ Humidity: 20.0 %
+
+
+ T+ 0 Hrs, 54 Minutes
+ Temp: 68.0 F
+ Humidity: 20.0 %
+
+
+ T+ 0 Hrs, 55 Minutes
+ Temp: 68.0 F
+ Humidity: 20.0 %
+
+
+ T+ 0 Hrs, 56 Minutes
+ Temp: 68.0 F
+ Humidity: 19.0 %
+
+
+ T+ 0 Hrs, 57 Minutes
+ Temp: 68.0 F
+ Humidity: 20.0 %
+
+
+ T+ 0 Hrs, 58 Minutes
+ Temp: 68.0 F
+ Humidity: 20.0 %
+
+
+ T+ 0 Hrs, 59 Minutes
+ Temp: 69.8 F
+ Humidity: 19.0 %
+
+
+ T+ 1 Hrs, 0 Minutes
+ Temp: 69.8 F
+ Humidity: 19.0 %
+
+
+ T+ 1 Hrs, 1 Minutes
+ Temp: 69.8 F
+ Humidity: 19.0 %
+
+
+ T+ 1 Hrs, 2 Minutes
+ Temp: 69.8 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 3 Minutes
+ Temp: 69.8 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 4 Minutes
+ Temp: 69.8 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 5 Minutes
+ Temp: 69.8 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 6 Minutes
+ Temp: 69.8 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 7 Minutes
+ Temp: 69.8 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 8 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 9 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 10 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 11 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 12 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 13 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 14 Minutes
+ Temp: 71.6 F
+ Humidity: 18.0 %
+
+
+ T+ 1 Hrs, 15 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 16 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 17 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 18 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 19 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 20 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 21 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 22 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 23 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 24 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 25 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 26 Minutes
+ Temp: 73.4 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 27 Minutes
+ Temp: 75.2 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 28 Minutes
+ Temp: 75.2 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 29 Minutes
+ Temp: 75.2 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 30 Minutes
+ Temp: 75.2 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 31 Minutes
+ Temp: 75.2 F
+ Humidity: 17.0 %
+
+
+ T+ 1 Hrs, 32 Minutes
+ Temp: 75.2 F
+ Humidity: 16.0 %
+
+
+ T+ 1 Hrs, 33 Minutes
+ Temp: 75.2 F
+ Humidity: 16.0 %
+
+
+ T+ 1 Hrs, 34 Minutes
+ Temp: 75.2 F
+ Humidity: 16.0 %
+
+
+ T+ 1 Hrs, 35 Minutes
+ Temp: 75.2 F
+ Humidity: 16.0 %
+
+
+ T+ 1 Hrs, 36 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 37 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 38 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 39 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 40 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 41 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 42 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 43 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 44 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 45 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 46 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 47 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 48 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 49 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 50 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 51 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 52 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 53 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 54 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 55 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 56 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 57 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 58 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 1 Hrs, 59 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 0 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 1 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 2 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 3 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 4 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 5 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 6 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 7 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 8 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 9 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 10 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 11 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 12 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 13 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 14 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 15 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 16 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 17 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 18 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 19 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 20 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 21 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 22 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 23 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 24 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 25 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 26 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 27 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 28 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 29 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 30 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 31 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 32 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 33 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 34 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 35 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 36 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 37 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 38 Minutes
+ Temp: 77.0 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 39 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 40 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 41 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 42 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 2 Hrs, 43 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 44 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 45 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 46 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 47 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 48 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 49 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 50 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 51 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 52 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 53 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 54 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 55 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 56 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 57 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 58 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 2 Hrs, 59 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 0 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 1 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 2 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 3 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 4 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 5 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 6 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 7 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 8 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 9 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 10 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 11 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 12 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 3 Hrs, 13 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 3 Hrs, 14 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 15 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 16 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 17 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 3 Hrs, 18 Minutes
+ Temp: 78.8 F
+ Humidity: 15.0 %
+
+
+ T+ 3 Hrs, 19 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 20 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 21 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 22 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 23 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 24 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 25 Minutes
+ Temp: 80.6 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 26 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 27 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 28 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 29 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 30 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 31 Minutes
+ Temp: 82.4 F
+ Humidity: 14.0 %
+
+
+ T+ 3 Hrs, 32 Minutes
+ Temp: 84.2 F
+ Humidity: 13.0 %
+
+
+ T+ 3 Hrs, 33 Minutes
+ Temp: 84.2 F
+ Humidity: 13.0 %
+
+
+ T+ 3 Hrs, 34 Minutes
+ Temp: 86.0 F
+ Humidity: 13.0 %
+
+
+ T+ 3 Hrs, 35 Minutes
+ Temp: 86.0 F
+ Humidity: 13.0 %
+
+
+ T+ 3 Hrs, 36 Minutes
+ Temp: 86.0 F
+ Humidity: 13.0 %
+
+
+ T+ 3 Hrs, 37 Minutes
+ Temp: 87.8 F
+ Humidity: 12.0 %
+
+
+ T+ 3 Hrs, 38 Minutes
+ Temp: 89.6 F
+ Humidity: 12.0 %
+
+
+ T+ 3 Hrs, 39 Minutes
+ Temp: 91.4 F
+ Humidity: 11.0 %
+
+
+ T+ 3 Hrs, 40 Minutes
+ Temp: 91.4 F
+ Humidity: 11.0 %
+
+
+ T+ 3 Hrs, 41 Minutes
+ Temp: 93.2 F
+ Humidity: 11.0 %
+
+
+ T+ 3 Hrs, 42 Minutes
+ Temp: 93.2 F
+ Humidity: 11.0 %
+
+
+ T+ 3 Hrs, 43 Minutes
+ Temp: 93.2 F
+ Humidity: 11.0 %
+
+
+ T+ 3 Hrs, 44 Minutes
+ Temp: 95.0 F
+ Humidity: 10.0 %
+
+
+ T+ 3 Hrs, 45 Minutes
+ Temp: 95.0 F
+ Humidity: 10.0 %
+
+
+ T+ 3 Hrs, 46 Minutes
+ Temp: 95.0 F
+ Humidity: 10.0 %
+
+
+ T+ 3 Hrs, 47 Minutes
+ Temp: 96.8 F
+ Humidity: 10.0 %
+
+
+ T+ 3 Hrs, 48 Minutes
+ Temp: 98.6 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 49 Minutes
+ Temp: 98.6 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 50 Minutes
+ Temp: 98.6 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 51 Minutes
+ Temp: 98.6 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 52 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 53 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 54 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 55 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 56 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 57 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 3 Hrs, 58 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 3 Hrs, 59 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 0 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 1 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 2 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 3 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 4 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 5 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 6 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 7 Minutes
+ Temp: 104.0 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 8 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 9 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 10 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 11 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 12 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 13 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 14 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 15 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 16 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 17 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 18 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 19 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 20 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 21 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 22 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 23 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 24 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 25 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 26 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 27 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 28 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 29 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 30 Minutes
+ Temp: 111.2 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 31 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 32 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 33 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 34 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 35 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 36 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 37 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 38 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 39 Minutes
+ Temp: 104.0 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 40 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 4 Hrs, 41 Minutes
+ Temp: 100.4 F
+ Humidity: 9.0 %
+
+
+ T+ 4 Hrs, 42 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 43 Minutes
+ Temp: 104.0 F
+ Humidity: 8.0 %
+
+
+ T+ 4 Hrs, 44 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 45 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 4 Hrs, 46 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 47 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 48 Minutes
+ Temp: 111.2 F
+ Humidity: 6.0 %
+
+
+ T+ 4 Hrs, 49 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 50 Minutes
+ Temp: 114.8 F
+ Humidity: 5.0 %
+
+
+ T+ 4 Hrs, 51 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 52 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 53 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 54 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 55 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 56 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 57 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 4 Hrs, 58 Minutes
+ Temp: 118.4 F
+ Humidity: 4.0 %
+
+
+ T+ 4 Hrs, 59 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 0 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 1 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 2 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 3 Minutes
+ Temp: 104.0 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 4 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 5 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 6 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 7 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 8 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 9 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 10 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 11 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 12 Minutes
+ Temp: 102.2 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 13 Minutes
+ Temp: 104.0 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 14 Minutes
+ Temp: 104.0 F
+ Humidity: 8.0 %
+
+
+ T+ 5 Hrs, 15 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 16 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 17 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 18 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 19 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 20 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 21 Minutes
+ Temp: 105.8 F
+ Humidity: 7.0 %
+
+
+ T+ 5 Hrs, 22 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 23 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 24 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 25 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 26 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 27 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 28 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 29 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 30 Minutes
+ Temp: 109.4 F
+ Humidity: 6.0 %
+
+
+ T+ 5 Hrs, 31 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 32 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 33 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 34 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 35 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 36 Minutes
+ Temp: 114.8 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 37 Minutes
+ Temp: 114.8 F
+ Humidity: 5.0 %
+
+
+ T+ 5 Hrs, 38 Minutes
+ Temp: 116.6 F
+ Humidity: 4.0 %
+
+
+ T+ 5 Hrs, 39 Minutes
+ Temp: 116.6 F
+ Humidity: 4.0 %
+
+
+ T+ 5 Hrs, 40 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 5 Hrs, 41 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 5 Hrs, 42 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 5 Hrs, 43 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 5 Hrs, 44 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 5 Hrs, 45 Minutes
+ Temp: 127.4 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 46 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 47 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 48 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 49 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 50 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 51 Minutes
+ Temp: 131.0 F
+ Humidity: 0.0 %
+
+
+ T+ 5 Hrs, 52 Minutes
+ Temp: 131.0 F
+ Humidity: 0.0 %
+
+
+ T+ 5 Hrs, 53 Minutes
+ Temp: 131.0 F
+ Humidity: 0.0 %
+
+
+ T+ 5 Hrs, 54 Minutes
+ Temp: 131.0 F
+ Humidity: 0.0 %
+
+
+ T+ 5 Hrs, 55 Minutes
+ Temp: 131.0 F
+ Humidity: 0.0 %
+
+
+ T+ 5 Hrs, 56 Minutes
+ Temp: 134.6 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 57 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 58 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 5 Hrs, 59 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 0 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 1 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 2 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 3 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 4 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 5 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 6 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 7 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 8 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 9 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 10 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 11 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 12 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 13 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 14 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 15 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 16 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 17 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 18 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 19 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 20 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 21 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 22 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 23 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 24 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 25 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 26 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 27 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 28 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 29 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 30 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 31 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 32 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 33 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 34 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 35 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 36 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 37 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 38 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 39 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 40 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 41 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 42 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 43 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 44 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 45 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 46 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 47 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 48 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 49 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 50 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 51 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 52 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 53 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 54 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 55 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 56 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 57 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 58 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 6 Hrs, 59 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 0 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 1 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 2 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 3 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 4 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 5 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 6 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 7 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 8 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 9 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 10 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 11 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 12 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 13 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 14 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 15 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 16 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 17 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 18 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 19 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 20 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 21 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 22 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 23 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 24 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 25 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 26 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 27 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 28 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 29 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 30 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 31 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 32 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 33 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 34 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 35 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 36 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 37 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 38 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 39 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 40 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 41 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 42 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 43 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 44 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 45 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 46 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 47 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 48 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 49 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 50 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 51 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 52 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 53 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 54 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 55 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 56 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 57 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 58 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 7 Hrs, 59 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 0 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 1 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 2 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 3 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 4 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 5 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 6 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 7 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 8 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 9 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 10 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 11 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 12 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 13 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 14 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 15 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 16 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 17 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 18 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 19 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 20 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 21 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 22 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 23 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 24 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 25 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 26 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 27 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 28 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 29 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 30 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 31 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 32 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 33 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 34 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 35 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 36 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 37 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 38 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 39 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 40 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 41 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 42 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 43 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 44 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 45 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 46 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 47 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 48 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 49 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 50 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 51 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 52 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 53 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 54 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 55 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 56 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 57 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 58 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 8 Hrs, 59 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 0 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 1 Minutes
+ Temp: 140.0 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 2 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 3 Minutes
+ Temp: 138.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 4 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 5 Minutes
+ Temp: 136.4 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 6 Minutes
+ Temp: 131.0 F
+ Humidity: 0.0 %
+
+
+ T+ 9 Hrs, 7 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 8 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 9 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 10 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 11 Minutes
+ Temp: 129.2 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 12 Minutes
+ Temp: 127.4 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 13 Minutes
+ Temp: 127.4 F
+ Humidity: 1.0 %
+
+
+ T+ 9 Hrs, 14 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 15 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 16 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 17 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 18 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 19 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 20 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 21 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 22 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 23 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 24 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 25 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 26 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 27 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 28 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 29 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 30 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 31 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 32 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 33 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 34 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 35 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 36 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 37 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 38 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 39 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 40 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 41 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 42 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 43 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 44 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 45 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 46 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 47 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 48 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 49 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 50 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 9 Hrs, 51 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 52 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 53 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 54 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 55 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 56 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 57 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 58 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 9 Hrs, 59 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 0 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 1 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 2 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 3 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 4 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 5 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 6 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 7 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 8 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 9 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 10 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 11 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 12 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 13 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 14 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 15 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 16 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 17 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 18 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 19 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 20 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 21 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 22 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 23 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 24 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 25 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 26 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 27 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 28 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 29 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 30 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 31 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 32 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 33 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 34 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 35 Minutes
+ Temp: 123.8 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 36 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 37 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 38 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 39 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 40 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 41 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 42 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 43 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 44 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 45 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 46 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 47 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 48 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 49 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 50 Minutes
+ Temp: 125.6 F
+ Humidity: 2.0 %
+
+
+ T+ 10 Hrs, 51 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 52 Minutes
+ Temp: 122.0 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 53 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 54 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 55 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 56 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 57 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 58 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 10 Hrs, 59 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 11 Hrs, 0 Minutes
+ Temp: 120.2 F
+ Humidity: 3.0 %
+
+
+ T+ 11 Hrs, 1 Minutes
+ Temp: 118.4 F
+ Humidity: 4.0 %
+
+
+ T+ 11 Hrs, 2 Minutes
+ Temp: 116.6 F
+ Humidity: 4.0 %
+
+
+ T+ 11 Hrs, 3 Minutes
+ Temp: 116.6 F
+ Humidity: 4.0 %
+
+
+ T+ 11 Hrs, 4 Minutes
+ Temp: 116.6 F
+ Humidity: 4.0 %
+
+
+ T+ 11 Hrs, 5 Minutes
+ Temp: 116.6 F
+ Humidity: 4.0 %
+
+
+ T+ 11 Hrs, 6 Minutes
+ Temp: 114.8 F
+ Humidity: 5.0 %
+
+
+ T+ 11 Hrs, 7 Minutes
+ Temp: 114.8 F
+ Humidity: 5.0 %
+
+
+ T+ 11 Hrs, 8 Minutes
+ Temp: 114.8 F
+ Humidity: 5.0 %
+
+
+ T+ 11 Hrs, 9 Minutes
+ Temp: 113.0 F
+ Humidity: 5.0 %
+

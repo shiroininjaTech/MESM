@@ -1,3 +1,5 @@
+Location: Shenandoah Nat Park
+Date: 09/17/19
 
  T+ 0 Hrs, 0 Minutes
  Temp: 62.6 F
@@ -527,6 +529,3 @@
  T+ 1 Hrs, 45 Minutes
  Temp: 62.6 F
  Humidity: 95.0 %
-
-
- 
